@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8f00a07-d990-4ac1-b717-4e1d8575142f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25dAf7mvJHUa0oDXrvcHuS3ytJz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/w-contract works/Final Aura/finaural-backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "G:\\w-contract works\\DirectPrivateOffers\\manzo-client\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\w-contract works\DirectPrivateOffers\manzo-client\src\services\local" />
+      <recent name="G:\w-contract works\DirectPrivateOffers\manzo-client\src\services\global" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f00a07-d990-4ac1-b717-4e1d8575142f" name="Changes" comment="" />
+      <created>1645846691058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645846691058</updated>
+      <workItem from="1645846692422" duration="20910000" />
+      <workItem from="1645939825655" duration="3243000" />
+      <workItem from="1645943391889" duration="1762000" />
+      <workItem from="1645946739453" duration="211000" />
+      <workItem from="1646045756761" duration="549000" />
+      <workItem from="1646049029977" duration="1119000" />
+      <workItem from="1646328948297" duration="4908000" />
+      <workItem from="1646339297890" duration="561000" />
+      <workItem from="1646963964583" duration="1325000" />
+      <workItem from="1646968666932" duration="119000" />
+      <workItem from="1647439341913" duration="3062000" />
+      <workItem from="1648659843151" duration="5000" />
+      <workItem from="1648727675433" duration="1306000" />
+      <workItem from="1648839706095" duration="2376000" />
+      <workItem from="1648983611519" duration="37000" />
+      <workItem from="1649357959678" duration="1281000" />
+      <workItem from="1649425233825" duration="3164000" />
+      <workItem from="1649463155427" duration="595000" />
+      <workItem from="1649520476890" duration="17000" />
+      <workItem from="1650556539054" duration="6113000" />
+      <workItem from="1650963985078" duration="8567000" />
+      <workItem from="1651019046466" duration="1704000" />
+      <workItem from="1651023052537" duration="4381000" />
+      <workItem from="1651046021373" duration="847000" />
+      <workItem from="1651068781157" duration="4452000" />
+      <workItem from="1651121616872" duration="927000" />
+      <workItem from="1651147299983" duration="964000" />
+      <workItem from="1651188583861" duration="598000" />
+      <workItem from="1651224502655" duration="37000" />
+      <workItem from="1651231716811" duration="431000" />
+      <workItem from="1651498549766" duration="1493000" />
+      <workItem from="1651645464446" duration="1492000" />
+      <workItem from="1652083608466" duration="1896000" />
+      <workItem from="1652107476172" duration="1399000" />
+      <workItem from="1652189992109" duration="540000" />
+      <workItem from="1652190595130" duration="5515000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix: added keys to each tags">
+      <created>1645866376055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645866376055</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: added keys to each tags">
+      <created>1645867678559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645867678559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ui-complete: sign In form">
+      <created>1645868932536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645868932536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add: keys to all tags necessary">
+      <created>1645943017317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645943017317</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fix: errors due to key missings">
+      <created>1645943902475</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645943902475</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix: register iconButton">
+      <created>1646045791134</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646045791134</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add: visible drawer status change">
+      <created>1646049131850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646049131850</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: condition in issue card">
+      <created>1646964058187</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646964058187</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add: email service template">
+      <created>1650929322680</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650929322680</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add: whitepaper component template">
+      <created>1650930783894</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650930783894</updated>
+    </task>
+    <task id="LOCAL-00011" summary="widget: button for whitepaper modal">
+      <created>1650969262124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650969262124</updated>
+    </task>
+    <task id="LOCAL-00012" summary="code style: added prettier">
+      <created>1650983999695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650983999695</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refactor: refactored the entire files with prettier">
+      <created>1650986855265</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650986855265</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add: form inside the modal for getting email address">
+      <created>1651070914479</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651070914480</updated>
+    </task>
+    <task id="LOCAL-00015" summary="mini-fix: small fixes on dependancies">
+      <created>1651147383937</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147383937</updated>
+    </task>
+    <task id="LOCAL-00016" summary="mini-fix: small fixes on dependancies">
+      <created>1652107896553</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652107896554</updated>
+    </task>
+    <task id="LOCAL-00017" summary="package: stripe-js axios">
+      <created>1652108312847</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652108312847</updated>
+    </task>
+    <task id="LOCAL-00018" summary="config: restrict mode false">
+      <created>1652190054163</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652190054163</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: new issue with routering to issue/new">
+      <created>1652191792642</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652191792642</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add: ui kits for payportal and etc">
+      <created>1652280397912</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652280397912</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add &amp; fix: templates for registers, forms" />
+    <MESSAGE value="change: registration on dynamic role" />
+    <MESSAGE value="add: signup options" />
+    <MESSAGE value="fix: added keys to each tags" />
+    <MESSAGE value="ui-complete: sign In form" />
+    <MESSAGE value="add: keys to all tags necessary" />
+    <MESSAGE value="fix: errors due to key missings" />
+    <MESSAGE value="fix: register iconButton" />
+    <MESSAGE value="add: visible drawer status change" />
+    <MESSAGE value="fix: condition in issue card" />
+    <MESSAGE value="add: email service template" />
+    <MESSAGE value="add: whitepaper component template" />
+    <MESSAGE value="widget: button for whitepaper modal" />
+    <MESSAGE value="code style: added prettier" />
+    <MESSAGE value="refactor: refactored the entire files with prettier" />
+    <MESSAGE value="add: form inside the modal for getting email address" />
+    <MESSAGE value="mini-fix: small fixes on dependancies" />
+    <MESSAGE value="package: stripe-js axios" />
+    <MESSAGE value="config: restrict mode false" />
+    <MESSAGE value="feat: new issue with routering to issue/new" />
+    <MESSAGE value="add: ui kits for payportal and etc" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: ui kits for payportal and etc" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
